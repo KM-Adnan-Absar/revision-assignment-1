@@ -1,0 +1,116 @@
+body{
+    margin:0;
+    font-family:'Poppins', sans-serif; ;
+}
+
+.first-part h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+.first-part h2{
+    font-size: 30px;
+    color: orange
+}
+.first-part p{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    
+    color:rgb(143, 134, 134);
+}
+.first-part button{
+    background-color: orangered;
+    background-image: -moz-linear-gradient(orange tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif; 
+    color: white;
+    border-radius: 3px;
+    font-size: 15px;
+    paddding-: 10px;
+    border: 0;
+}
+.first-part{
+    padding-left: 70px;
+    width: 50%;
+    
+}
+.first-part img{
+    width: 70%;
+    height: 70%;
+}
+
+
+.top-part{
+    display: flex;
+}
+.second-part h1{
+    
+    text-align: center;
+    font-family:'Poppins', sans-serif; ;
+ }
+ .second-part span{
+    color: orange;
+ }
+ .mission-part h3{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+ }
+ .mission-part{
+    padding-left: 70px;
+    width: 50%;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(143, 134, 134);
+ }
+
+ .mission-part img{
+    width: 50%;
+    height: 70%;
+    }
+    .vission-part h3{
+        color: black;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    .vission-part{
+    padding-left: 70px;
+    width: 50%;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(143, 134, 134);
+
+    .vission-part img{
+        width: 50%;
+        height: 70%;
+    }
+    .vission-part h3{
+        color: black;
+        font-family: 'Poppins', sans-serif;}
+
+ }
+ .goals-part h3{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+ }
+ .goals-part{
+    padding-left: 70px;
+    width: 50%;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color:rgb(143, 134, 134);
+
+ }
+ .goals-part img{
+    width: 50%;
+    height: 70%;
+ }
+ .flexible-part{
+    display: flex;
+ }
+ .another-flexible{
+    display: flex;
+ }
+
+ 
+ 
